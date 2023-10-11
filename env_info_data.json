@@ -1,0 +1,293 @@
+{
+    "resources_data": [{
+            "type": "transport",
+            "id": "05C7B2A1498881BEFC1283B0E0CA5E2D",
+            "location": [-819, 5400],
+            "capacity": 56,
+            "speed": 200,
+            "load_machine_time": 2,
+            "unload_machine_time": 2,
+            "load_source_time": 2,
+            "unload_source_time": 2
+        },
+        {
+            "type": "transport",
+            "id": "080751A24D40641E40C0B9B45B989D51",
+            "location": [-483, 5394],
+            "capacity": 44,
+            "speed": 200,
+            "load_machine_time": 2,
+            "unload_machine_time": 2,
+            "load_source_time": 2,
+            "unload_source_time": 2
+        },
+        {
+            "type": "transport",
+            "id": "0A8F7D0E411FFB6BF24F278AB1A9BD0D",
+            "location": [-118, 5410],
+            "capacity": 52,
+            "speed": 200,
+            "load_machine_time": 2,
+            "unload_machine_time": 2,
+            "load_source_time": 2,
+            "unload_source_time": 2
+        },
+        {
+            "type": "transport",
+            "id": "1410940747E45231F7B573BECA9E62DF",
+            "location": [179, 5437],
+            "capacity": 52,
+            "speed": 200,
+            "load_machine_time": 2,
+            "unload_machine_time": 2,
+            "load_source_time": 2,
+            "unload_source_time": 2
+        },
+        {
+            "type": "transport",
+            "id": "743C7BF946E2F35514A25BB2A7B7DC7A",
+            "location": [-1275, 5389],
+            "capacity": 52,
+            "speed": 200,
+            "load_machine_time": 2,
+            "unload_machine_time": 2,
+            "load_source_time": 2,
+            "unload_source_time": 2
+        },
+        {
+            "type": "transport",
+            "id": "74A77FBD4E712C9CE749DCBFBE3149F0",
+            "location": [503, 5441],
+            "capacity": 52,
+            "speed": 200,
+            "load_machine_time": 2,
+            "unload_machine_time": 2,
+            "load_source_time": 2,
+            "unload_source_time": 2
+        },
+        {
+            "type": "transport",
+            "id": "865DC9A845891A70A99E4F94AB865EAD",
+            "location": [-1743, 5382],
+            "capacity": 44,
+            "speed": 200,
+            "load_machine_time": 2,
+            "unload_machine_time": 2,
+            "load_source_time": 2,
+            "unload_source_time": 2
+        },
+        {
+            "type": "transport",
+            "id": "8A85E2B44570235E83D012B9A1071C03",
+            "location": [1208, 5440],
+            "capacity": 56,
+            "speed": 200,
+            "load_machine_time": 2,
+            "unload_machine_time": 2,
+            "load_source_time": 2,
+            "unload_source_time": 2
+        },
+        {
+            "type": "transport",
+            "id": "8E04ADFB4DC3C674720A099DB954181D",
+            "location": [866, 5434],
+            "capacity": 48,
+            "speed": 200,
+            "load_machine_time": 2,
+            "unload_machine_time": 2,
+            "load_source_time": 2,
+            "unload_source_time": 2
+        },
+        {
+            "type": "transport",
+            "id": "E9E2167C4B30B41012F30CB3B796AAB8",
+            "location": [-2133, 5383],
+            "capacity": 56,
+            "speed": 200,
+            "load_machine_time": 2,
+            "unload_machine_time": 2,
+            "load_source_time": 2,
+            "unload_source_time": 2
+        },
+        {
+            "type": "sink",
+            "id": "67AFD467457A8CAD138AE38F0247D6CC",
+            "location": [-1650, -5113],
+            "capacity": 1040,
+            "resp_machines": [
+                "B8D34687472569E4BF2E52BFCC4D5823",
+                "4DF3FA2845173D643DE957861FB619E4",
+                "E057EEE64ABF6738DB9DE4B402280F5D",
+                "7D193CCF43F02A946F3D3AA6AC85B51E",
+                "4DBD1A2C4B67B613518D869B5AACA6DE",
+                "0CF7603645AD640E95B5D1BCB8D8212D"
+            ]
+        },
+        {
+            "type": "sink",
+            "id": "9AA078734101798FCFDF32B54458C917",
+            "location": [-233, -5078],
+            "capacity": 1010,
+            "resp_machines": [
+                "B8D34687472569E4BF2E52BFCC4D5823",
+                "4DF3FA2845173D643DE957861FB619E4",
+                "E057EEE64ABF6738DB9DE4B402280F5D",
+                "7D193CCF43F02A946F3D3AA6AC85B51E",
+                "4DBD1A2C4B67B613518D869B5AACA6DE",
+                "0CF7603645AD640E95B5D1BCB8D8212D"
+            ]
+        },
+        {
+            "type": "sink",
+            "id": "ED5CEE524635B275D5B27083E43384CE",
+            "location": [1266, -5099],
+            "capacity": 1025,
+            "resp_machines": [
+                "B8D34687472569E4BF2E52BFCC4D5823",
+                "4DF3FA2845173D643DE957861FB619E4",
+                "E057EEE64ABF6738DB9DE4B402280F5D",
+                "7D193CCF43F02A946F3D3AA6AC85B51E",
+                "4DBD1A2C4B67B613518D869B5AACA6DE",
+                "0CF7603645AD640E95B5D1BCB8D8212D"
+            ]
+        },
+        {
+            "type": "machine",
+            "id": "0CF7603645AD640E95B5D1BCB8D8212D",
+            "location": [-1848, 2434],
+            "capacity": 21,
+            "process_time": [2, 5],
+            "machine_type": "0CF7603645AD640E95B5D1BCB8D8212D"
+        },
+        {
+            "type": "machine",
+            "id": "4DBD1A2C4B67B613518D869B5AACA6DE",
+            "location": [-1398, 2398],
+            "capacity": 25,
+            "process_time": [2, 5],
+            "machine_type": "4DBD1A2C4B67B613518D869B5AACA6DE"
+        },
+        {
+            "type": "machine",
+            "id": "4DF3FA2845173D643DE957861FB619E4",
+            "location": [1142, 2344],
+            "capacity": 21,
+            "process_time": [2, 5],
+            "machine_type": "4DF3FA2845173D643DE957861FB619E4"
+        },
+        {
+            "type": "machine",
+            "id": "7D193CCF43F02A946F3D3AA6AC85B51E",
+            "location": [-434, 2394],
+            "capacity": 25,
+            "process_time": [2, 5],
+            "machine_type": "7D193CCF43F02A946F3D3AA6AC85B51E"
+        },
+        {
+            "type": "machine",
+            "id": "B8D34687472569E4BF2E52BFCC4D5823",
+            "location": [1825, 2297],
+            "capacity": 23,
+            "process_time": [2, 5],
+            "machine_type": "B8D34687472569E4BF2E52BFCC4D5823"
+        },
+        {
+            "type": "machine",
+            "id": "E057EEE64ABF6738DB9DE4B402280F5D",
+            "location": [88, 2359],
+            "capacity": 23,
+            "process_time": [2, 5],
+            "machine_type": "E057EEE64ABF6738DB9DE4B402280F5D"
+        },
+        {
+            "type": "source",
+            "id": "3ABFFFDB44E55DC5D2BEF28177809CDE",
+            "location": [86, 4431],
+            "capacity": 540,
+            "order_generation_time": 30,
+            "resp_machines": [
+                "B8D34687472569E4BF2E52BFCC4D5823",
+                "4DF3FA2845173D643DE957861FB619E4",
+                "E057EEE64ABF6738DB9DE4B402280F5D",
+                "7D193CCF43F02A946F3D3AA6AC85B51E",
+                "4DBD1A2C4B67B613518D869B5AACA6DE",
+                "0CF7603645AD640E95B5D1BCB8D8212D"
+            ]
+        },
+        {
+            "type": "source",
+            "id": "7C55E99544FF4F43A6231DAB66ACCC65",
+            "location": [1712, 4411],
+            "capacity": 525,
+            "order_generation_time": 30,
+            "resp_machines": [
+                "B8D34687472569E4BF2E52BFCC4D5823",
+                "4DF3FA2845173D643DE957861FB619E4",
+                "E057EEE64ABF6738DB9DE4B402280F5D",
+                "7D193CCF43F02A946F3D3AA6AC85B51E",
+                "4DBD1A2C4B67B613518D869B5AACA6DE",
+                "0CF7603645AD640E95B5D1BCB8D8212D"
+            ]
+        },
+        {
+            "type": "source",
+            "id": "9917F4EB4DC0B9F4EE935297E8DCC9E5",
+            "location": [-427, 4433],
+            "capacity": 505,
+            "order_generation_time": 30,
+            "resp_machines": [
+                "B8D34687472569E4BF2E52BFCC4D5823",
+                "4DF3FA2845173D643DE957861FB619E4",
+                "E057EEE64ABF6738DB9DE4B402280F5D",
+                "7D193CCF43F02A946F3D3AA6AC85B51E",
+                "4DBD1A2C4B67B613518D869B5AACA6DE",
+                "0CF7603645AD640E95B5D1BCB8D8212D"
+            ]
+        },
+        {
+            "type": "source",
+            "id": "AD851D6C46E1BE086FB4279E69E85B7C",
+            "location": [-1869, 4472],
+            "capacity": 520,
+            "order_generation_time": 30,
+            "resp_machines": [
+                "B8D34687472569E4BF2E52BFCC4D5823",
+                "4DF3FA2845173D643DE957861FB619E4",
+                "E057EEE64ABF6738DB9DE4B402280F5D",
+                "7D193CCF43F02A946F3D3AA6AC85B51E",
+                "4DBD1A2C4B67B613518D869B5AACA6DE",
+                "0CF7603645AD640E95B5D1BCB8D8212D"
+            ]
+        },
+        {
+            "type": "source",
+            "id": "C6F7FE5244AEE314AB1746BF6CDE867C",
+            "location": [-1423, 4462],
+            "capacity": 505,
+            "order_generation_time": 30,
+            "resp_machines": [
+                "B8D34687472569E4BF2E52BFCC4D5823",
+                "4DF3FA2845173D643DE957861FB619E4",
+                "E057EEE64ABF6738DB9DE4B402280F5D",
+                "7D193CCF43F02A946F3D3AA6AC85B51E",
+                "4DBD1A2C4B67B613518D869B5AACA6DE",
+                "0CF7603645AD640E95B5D1BCB8D8212D"
+            ]
+        },
+        {
+            "type": "source",
+            "id": "E0CC065E47F6EB09B17EB39C8F5271E7",
+            "location": [1147, 4426],
+            "capacity": 530,
+            "order_generation_time": 30,
+            "resp_machines": [
+                "B8D34687472569E4BF2E52BFCC4D5823",
+                "4DF3FA2845173D643DE957861FB619E4",
+                "E057EEE64ABF6738DB9DE4B402280F5D",
+                "7D193CCF43F02A946F3D3AA6AC85B51E",
+                "4DBD1A2C4B67B613518D869B5AACA6DE",
+                "0CF7603645AD640E95B5D1BCB8D8212D"
+            ]
+        }
+    ]
+}
